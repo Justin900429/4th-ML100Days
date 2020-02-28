@@ -4,6 +4,9 @@
 .LSOverride
 .ipynb_checkpoints
 
+# Data file
+*.csv
+
 # Icon must end with two \r
 Icon
 
