@@ -6,6 +6,7 @@
 
 # Data file
 *.csv
+*.pdf
 
 # Icon must end with two \r
 Icon
